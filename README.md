@@ -1,1 +1,2 @@
-This is a Chlorine Dioxide dilution calculator. This is version 2 but I'm working on a refined version 3.
+This is a Chlorine Dioxide dilution calculator. 
+It uses gallons, oz, ml for volume units. 
